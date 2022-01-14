@@ -4,10 +4,12 @@
 
 ##  A Professional MERN Stack Developer.
 <br>
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Native 
 
 <br>
+
 ![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
 
 <br>
@@ -51,12 +53,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulzero7&show_icons=true) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulzero7)  
  
-
-
-### Blogs posts
-📝 I regularly write articles on [https://dev.to/ruhulzero7](https://dev.to/ruhulzero7)
-
-
-
 
 
