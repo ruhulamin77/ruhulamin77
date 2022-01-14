@@ -5,7 +5,7 @@
 
 # Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-##  A desperate Web Learner and JavaScript lover 🧡
+##  A desperate web learner and JavaScript lover 🧡
 
 - 🌱 I’m currently learning React Native.
 - 👯 I'm looking to collaborate other web learner. 
