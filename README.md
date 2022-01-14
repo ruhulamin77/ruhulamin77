@@ -15,8 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulzero7&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulzero7)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulzero7&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulzero7)  
 
 ![Profile views](https://gpvc.arturio.dev/ruhulzero7)  
