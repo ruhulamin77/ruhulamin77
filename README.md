@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Native 
 
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ruhulzero7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruhulzero7" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/ruhulamin_ak47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruhulamin_ak47" height="30" width="40" /></a>
 </p>
 
----
+
 <!-- ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
