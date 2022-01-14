@@ -6,12 +6,12 @@
 # Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ###  A Professional MERN Stack Developer 😊
-<br>
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Native 
 
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ruhulzero7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruhulzero7" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/ruhulamin_ak47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruhulamin_ak47" height="30" width="40" /></a>
 </p>
 
-<br>
+--
 
 <!-- ### Languages and Tools:
 
