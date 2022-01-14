@@ -1,11 +1,11 @@
 ![A Professional MERN Stack Developer](https://i.ibb.co/BwnH2qd/linkedinbanner.jpg)
 
 
-👀 ![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
+![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
 
 # Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-###  A desperate Web Learner 😊
+##  A desperate Web Learner and JavaScript lover 🧡
 
 - 🌱 I’m currently learning React Native.
 - 👯 I'm looking to collaborate other web learner. 
