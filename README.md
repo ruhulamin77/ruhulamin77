@@ -50,7 +50,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulzero7)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7)](https://github.com/anuraghazra/github-readme-stats) 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifbinhossain&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7&layout=compact&theme=buefy&hide_border=true" /></a> |
  
 
 
