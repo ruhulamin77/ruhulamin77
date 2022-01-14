@@ -1,4 +1,4 @@
-![A Professional MERN Stack Developer](https://i.ibb.co/BwnH2qd/linkedinbanner.jpg)
+<!-- ![A Professional MERN Stack Developer](https://i.ibb.co/BwnH2qd/linkedinbanner.jpg) -->
 <br>
 
 👀 ![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
