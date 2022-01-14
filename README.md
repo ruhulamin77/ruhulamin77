@@ -5,11 +5,14 @@
 
 # Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-###  A Professional MERN Stack Developer 😊
+###  A desperate Web Learner 😊
 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning React Native.
+- 👯 I'm looking to collaborate other web learner. 
+- 💻 I always love to explore new things in technology.
+- 🥅 2022 Goals: Want to be a Fullstack Web Developer.
+- �📷 Reading tech documentations whenever possible.
+- ⚡ Fun fact: Undefined Can Be Defined ! 😁
 
 ---
 <h3 align="left">Connect with me:</h3>
