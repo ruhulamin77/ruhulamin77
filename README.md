@@ -58,11 +58,6 @@
 
 
 
-<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
-<img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" />
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/mhxBpgM/reactbootstrap.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/31qMkVQ/vscode.png" />
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/7zs2TGW/git.png" />
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulzero7&show_icons=true)
