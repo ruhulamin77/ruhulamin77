@@ -1,5 +1,9 @@
 ![A Professional MERN Stack Developer](https://i.ibb.co/BwnH2qd/linkedinbanner.jpg)
+<br>
 
+![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
+
+<br>
 # Hi there I'm Ruhul Amin, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ###  A Professional MERN Stack Developer.
@@ -10,9 +14,7 @@
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
