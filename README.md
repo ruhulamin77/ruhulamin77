@@ -1,9 +1,11 @@
-### Hi there 👋, I'm Ruhul Amin
-#### A Professional MERN Stack Developer
 ![A Professional MERN Stack Developer](https://i.ibb.co/BwnH2qd/linkedinbanner.jpg)
 
+### Hi there 👋
+#### I'm Ruhul Amin, A Professional MERN Stack Developer.
 
-Skills: NODE / MongoDB / REACT / JS / HTML / CSS / Bootstrap 
+#### Things I code with
+
+ <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css3' height='30'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='javascript' height='30'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='react' height='30'> <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' alt='router' height='30'>  <img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white' alt='npm' height='30'>  <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' alt='firebase' height='30'> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'> <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white' alt='fontAwesome' height='30'> <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='30'> <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='figma' height='30'> <img src='https://images.ctfassets.net/nj2caiz7hkjw/3VoFdDTP5SowwESKIOAgm/a111ddd784928b61045c8e811e1769be/webpack.png' alt='webpack' height='30'>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Native 
