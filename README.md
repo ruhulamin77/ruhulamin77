@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning React Native.
 - 👯 I'm looking to collaborate other web learner. 
-- 💻 I always love to explore new things in technology.
 - 🥅 2022 Goals: Want to be a Fullstack Web Developer.
-- �📷 Reading tech documentations whenever possible.
+- 💻 I always love to explore new things in technology.
+- 📷 Also, I like to play sports and do photography.
 - ⚡ Fun fact: Undefined Can Be Defined ! 😁
 
 ---
