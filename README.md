@@ -52,7 +52,7 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ruhulzero7&custom_title=This_week_I_spent_my_time_on&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
  
 
 
