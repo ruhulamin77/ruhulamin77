@@ -67,7 +67,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulzero7&show_icons=true&locale=en&layout=compact" alt="ruhulzero7" /></p>
+<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulzero7&show_icons=true&locale=en&layout=compact" alt="ruhulzero7" /></p>
  
  <br>
 
