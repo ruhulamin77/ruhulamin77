@@ -64,6 +64,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulzero7)](https://github.com/anuraghazra/github-readme-stats)
 
 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruhulzero7)
  
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulzero7&show_icons=true&locale=en&layout=compact" alt="ruhulzero7" /></p>
 
 
