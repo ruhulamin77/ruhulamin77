@@ -3,9 +3,9 @@
 
 
 
-# Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-##  A desperate web learner and JavaScript lover 🧡
+## Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+###  A desperate web learner and JavaScript lover 🧡
+![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
 
 - 🌱 I’m currently learning React Native.
 - 👯 I'm looking to collaborate other web learner. 
@@ -15,8 +15,7 @@
 - ⚡ Fun fact: Undefined Can Be Defined ! 😁
 
 ---
-![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
----
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ruhulzero7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruhulzero7" height="30" width="40" /></a>
