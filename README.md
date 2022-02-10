@@ -1,7 +1,7 @@
 <!-- ![A Professional MERN Stack Developer](https://i.ibb.co/LR7kLH0/Linked-In-Banner.jpg) -->
 
 
-![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
+
 
 # Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
@@ -14,6 +14,8 @@
 - 📷 Also, I like to play sports and do photography.
 - ⚡ Fun fact: Undefined Can Be Defined ! 😁
 
+---
+![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
