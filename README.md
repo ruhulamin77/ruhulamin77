@@ -3,7 +3,7 @@
 
 
 
-## Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" max-width="30px">
 ###  A desperate web learner and JavaScript lover 🧡
 ![Profile views](https://gpvc.arturio.dev/ruhulzero7) 
 
@@ -72,4 +72,4 @@
  
  <br> -->
 
-<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruhulzero7) -->
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RuhulAmin7) -->
