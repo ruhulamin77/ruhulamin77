@@ -62,13 +62,13 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuhulAmin7&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin7)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulamin7&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin7)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAmin7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulzero7&show_icons=true&locale=en&layout=compact" alt="ruhulamin7" /></p>
+<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamin7&show_icons=true&locale=en&layout=compact" alt="ruhulamin7" /></p>
  
  <br>
 
