@@ -7,7 +7,7 @@
 ###  A desperate web learner and JavaScript lover 🧡
 ![Profile views](https://gpvc.arturio.dev/ruhulamin7) 
 
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Web Socket and Web RTC.
 - 👯 I'm looking to collaborate other web learner. 
 - 🥅 2022 Goals: Want to be a Fullstack Web Developer.
 - 💻 I always love to explore new things in technology.
