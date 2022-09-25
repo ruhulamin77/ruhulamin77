@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Want to be a Fullstack Web Developer.
 - 💻 I always love to explore new things in technology.
 - 📷 Also, I like to play sports and do photography.
-- ⚡ Fun fact: In Javascript "undefined" can be "defined"! 😁
+- ⚡ Fun fact: In Javascript, "undefined" can be "defined"! 😁
 
 ---
 
