@@ -5,7 +5,7 @@
 
 ## Hi there, I'm Ruhul Amin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ###  A desperate web learner and JavaScript lover 🧡
-![Profile views](https://gpvc.arturio.dev/ruhulamin7) 
+![Profile views](https://gpvc.arturio.dev/ruhulamin77) 
 
 - 🌱 I’m currently learning Web Socket and Web RTC.
 - 👯 I'm looking to collaborate other web learner. 
@@ -62,14 +62,14 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulamin7&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin7)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhulamin77&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin77)  
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin7)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin77)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamin7&show_icons=true&locale=en&layout=compact" alt="ruhulamin7" /></p>
+<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamin77&show_icons=true&locale=en&layout=compact" alt="ruhulamin77" /></p>
  
 <!--  <br> -->
 
-<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruhulamin7) -->
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruhulamin77) -->
