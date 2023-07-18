@@ -7,7 +7,7 @@
 ###  A desperate web learner and JavaScript lover 🧡
 <!--![Profile views](https://gpvc.arturio.dev/ruhulamin77) -->
 https://komarev.com/ghpvc/?username=ruhulamin77&color=brightgreen
-![Profile views](https://komarev.com/ghpvc/?username=ruhulamin77&color=brightgreen)
+[Profile views](https://komarev.com/ghpvc/?username=ruhulamin77&color=brightgreen)
 
 - 🌱 I’m currently learning Web Socket and Web RTC.
 - 👯 I'm looking to collaborate other web learner. 
