@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Web Socket and Web RTC.
 - 👯 I'm looking to collaborate other web learner. 
-- 🥅 2024 Goals: Want to be a Fullstack Web Developer.
+- 🥅 2025 Goals: Want to be a Fullstack Web Developer.
 - 💻 I always love to explore new things in technology.
 - 📷 Also, I like to play sports and do photography.
 - ⚡ Fun fact: In Javascript, "undefined" can be "defined"! 😁
